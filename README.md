@@ -1,4 +1,4 @@
-# AFLL-mini-project-UE22CS243A-
+Swift Interpreter
 This project is a simple interpreter for the 'Swift' programming language. It uses the PLY (Python Lex-Yacc) library to implement the lexer and parser, which are the first two phases of a compiler or interpreter.
 This project is a collection of lexers and parsers implemented using the PLY (Python Lex-Yacc) library in Python. Each pair of lexer and parser files is designed to interpret a specific construct of a programming language, such as 'if' statements, 'for' loops, 'for-in' loops, and 'while' loops.
 
